@@ -6,3 +6,4 @@ st.text('🥗 Kale, Spinach & rocket Smoothie')
 st.text('🐔 Hard-Boiled Free-Range Egg')
 st.text('🥑🍞 Avacado Toast')
 
+st.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
